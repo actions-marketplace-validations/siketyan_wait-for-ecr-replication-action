@@ -26,8 +26,8 @@ dependencies:
 
 devDependencies:
   '@types/node':
-    specifier: ^16.18.39
-    version: 16.18.39
+    specifier: ^16.18.50
+    version: 16.18.50
   esbuild:
     specifier: ^0.18.18
     version: 0.18.18
@@ -1247,8 +1247,8 @@ packages:
       tslib: 2.6.1
     dev: false
 
-  /@types/node@16.18.39:
-    resolution: {integrity: sha512-8q9ZexmdYYyc5/cfujaXb4YOucpQxAV4RMG0himLyDUOEr8Mr79VrqsFI+cQ2M2h89YIuy95lbxuYjxT4Hk4kQ==}
+  /@types/node@16.18.50:
+    resolution: {integrity: sha512-OiDU5xRgYTJ203v4cprTs0RwOCd5c5Zjv+K5P8KSqfiCsB1W3LcamTUMcnQarpq5kOYbhHfSOgIEJvdPyb5xyw==}
     dev: true
 
   /before-after-hook@2.2.3:
